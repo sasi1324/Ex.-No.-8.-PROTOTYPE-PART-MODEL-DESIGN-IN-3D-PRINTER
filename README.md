@@ -46,13 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Screenshot    2023-11-28 at 22 02 24_0e0821ed](https://github.com/sasi1324/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150313315/29b92c9c-ab0b-45a6-8696-5ff35315fc5c)
-![Screenshot   2023-11-28 at 22 02 25_9cb3d8e5](https://github.com/sasi1324/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150313315/91196f23-f83a-432d-8f51-df1c3bd9563e)
-![Screenshot   2023-11-28 at 22 02 25_60cc8620](https://github.com/sasi1324/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150313315/73d35ce3-91ae-47a2-a62a-04fc703e77b5)
-![Screenshot   2023-11-28 at 22 02 26_f7d55036](https://github.com/sasi1324/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150313315/385a962b-ab4c-43c5-9af8-5aa2f69dbb99)
-![Screenshot   2023-11-28 at 22 02 27_14a0bb19](https://github.com/sasi1324/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150313315/e4c7a9b0-2d57-4701-92ba-8cdda382f829)
-![Screenshot   2023-11-28 at 22 02 27_a25a7d0a](https://github.com/sasi1324/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150313315/22c2ce65-b1f3-4a8e-8fd9-9fbade5bc401)
-![Screenshot   2023-11-28 at 22 02 27_c357ebf2](https://github.com/sasi1324/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150313315/472066d7-e27e-4662-b183-b7db8b520b60)
+![Screenshot 2024-01-02 222114](https://github.com/sasi1324/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150313315/5f452c47-65b9-49a5-b4c5-653d795768a6)
+![Screenshot 2024-01-02 221753](https://github.com/sasi1324/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150313315/18d6897c-0146-400f-bbd4-97314e8b7321)
 
 ### Name: SASINTHARA S
 ### Register Number: 23005130
